@@ -1,0 +1,2 @@
+# KIPs
+Kava Improvement Proposals
