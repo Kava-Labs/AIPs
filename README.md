@@ -8,6 +8,9 @@ Kava Improvement Proposals (KIPs) describe future standards for the Kava platfor
 3. Add your KIP to your fork of the repository
 4. Submit a Pull Request to Kava's KIPs repository
 
+# KIP Categories
+- Asset: a KIP that is related to the new asset integration.
+- Core: a KIP that is related the Kava's core protocol specifications.
 
 # KIP Status Terms
 - Draft: a KIP that has been submitted to Kava's KIPs repository and is undergoing rapid iteration and changes.
