@@ -1,19 +1,18 @@
-# KIP-1: Example Asset Proposal
+# AIP-1: Example Asset Proposal
 
 | Author       | Denali Marsh (Kava)   |
 | ------------ | --------------------- |
 | Status       | Draft                 |
-| Category     | Asset                 |
 | Created      | 2020-8-6              |
 
 
 ## 1. Summary
 
-One sentence description i.e. "This KIP is about introducing asset XXX to the Kava platform as a new collateral type."
+One sentence description i.e. "This AIP is about introducing asset XXX to the Kava platform as a new collateral type."
 
 ## 2. Abstract­
 
-High level description of the KIP, no longer than a paragraph. What is the core improvement being proposed? How does it benefit the Kava community and platform? If the KIP is an asset proposal, please describe what makes your asset uniquely valuable on Kava.
+High level description of the AIP, no longer than a paragraph. What is the core improvement being proposed? How does it benefit the Kava community and platform? What makes your asset uniquely valuable on Kava?
 
 This will help convince KAVA holders to vote in support of your proposal.
 
