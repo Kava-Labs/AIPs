@@ -8,7 +8,7 @@ Asset Integration Proposals (AIPs) describe future standards for the Kava platfo
 3. Add your AIP to your fork of the repository
 4. Submit a Pull Request to Kava's AIPs repository
 
-# KIP Status Terms
+# AIP Status Terms
 - Draft: an AIP that has been submitted to Kava's AIPs repository and is undergoing rapid iteration and changes.
 - Reviewable: an AIP that is done with its initial iteration and is ready for review.
 - Under Review: an AIP that is under technical review by a wide audience, including Kava's core devs.
